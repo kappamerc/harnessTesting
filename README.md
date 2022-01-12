@@ -1,2 +1,0 @@
-# harnessTesting
-Testing Harness
